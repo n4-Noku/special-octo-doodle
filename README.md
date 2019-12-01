@@ -1,6 +1,7 @@
+# Noku Network
+
 ```diff
-! # NOKU NETWORK 
-``` 
+! 
 
 A beautiful and lightweight web-proxy site built to be easy to use and modify for everyone; for students, by students.
 
@@ -31,6 +32,6 @@ Chatboxes for Noku Network's Services. Replace if needed.
 Create an Issue if you have problems with the site and a staff member will address your concerns.
 
 #
-Property of Noku Network. You have permission to modify, however we require that you leave it open-source AND to credit us since many components of Noku Network are open-source.
+Property of Noku Network. You have permission to modify, however we require that you leave it open-source AND to credit us since many components of Noku Network are open-source.```
 
 
