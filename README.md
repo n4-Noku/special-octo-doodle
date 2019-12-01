@@ -1,4 +1,4 @@
-# TitaniumPhoenix V2
+# Noku Network
 
 A beautiful and lightweight web-proxy site built to be easy to use and modify for everyone; for students, by students.
 
@@ -22,11 +22,11 @@ This site has links to many games on a CDN for quick and efficient access.
 
 #### Chatboxes
 
-Chatboxes for TitaniumNetwork's Services. Replace if needed.
+Chatboxes for Noku Network's Services. Replace if needed.
 
 #### Suggest Some Stuff!
  
 Create an Issue if you have problems with the site and a staff member will address your concerns.
 
 #
-Property of TitaniumNetwork. You have permission to modify, however we require that you leave it open-source AND to credit us since many components of TitaniumPhoenix are open-source.
+Property of Noku Network. You have permission to modify, however we require that you leave it open-source AND to credit us since many components of Noku Network are open-source.
