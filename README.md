@@ -4,17 +4,17 @@
 
 ! A beautiful and lightweight web-proxy site built to be easy to use and modify for everyone; for students, by students.
 
-! Initial Release Date: 02/11/2019.
+! Ini=tial Release Date: 02/11/2019.
 
 ! [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kinglalu/special-octo-doodle)
 
- #### Basic info
+ ### Basic info
 
 ! This web-app, measuring about 20 MB, is designed to be as light on server storage as possible.
 
  # Features
 
-! #### Locally Stored and Hosted Proxy Server
+!  Locally Stored and Hosted Proxy Server
 
 ! This allows your PhoenixHub site to have a proxy already equipped when you deploy it so you can quickly get to circumventing censorship!
 
