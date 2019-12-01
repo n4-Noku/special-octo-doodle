@@ -30,3 +30,11 @@ Create an Issue if you have problems with the site and a staff member will addre
 
 #
 Property of Noku Network. You have permission to modify, however we require that you leave it open-source AND to credit us since many components of Noku Network are open-source.
+
+
+```diff
+- Hello
++ text in green
+! text in orange
+# text in gray
+```
